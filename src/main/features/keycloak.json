@@ -33,7 +33,7 @@
       "start-order": "20"
     },
     {
-      "id": "org.apache.httpcomponents:httpcore-osgi:4.4.13",
+      "id": "org.apache.httpcomponents:httpcore-osgi:4.4.16",
       "start-order": "20"
     },
     {

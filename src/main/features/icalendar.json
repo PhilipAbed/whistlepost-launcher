@@ -21,7 +21,7 @@
       "start-order": "20"
     },
     {
-      "id": "org.ehcache:ehcache:3.4.0",
+      "id": "org.ehcache:ehcache:3.10.8",
       "start-order": "20"
     },
     {

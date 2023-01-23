@@ -28,7 +28,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <slingfeature-maven-plugin.version>1.4.2</slingfeature-maven-plugin.version>
         <sling-kickstart-maven-plugin.version>0.0.8</sling-kickstart-maven-plugin.version>
-        <felix.version>6.0.3</felix.version>
+        <felix.version>7.0.5</felix.version>
         <whistlepost.version>2.0.0-alpha1-SNAPSHOT</whistlepost.version>
         <groovy.version>3.0.9</groovy.version>
         <oak.version>1.26.0</oak.version>
